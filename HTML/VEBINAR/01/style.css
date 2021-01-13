@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.catalog{
+	border: 2px solid red;
+	margin-bottom: 30px;
+}
+table.catalog td{
+	border: 1px solid red;
+	padding: 20px;
+}
+.td-price{
+	background: #ccc;
+}
+ul{
+	padding: 0 0 20px 30px;
+}
+ul li{
+	padding: 0 0 10px 0;
+}
+.td-col1{
+	width: 200px;
+	height: 150px;
+}
+h1{
+	background: gold;
+	margin: 0 0 30px;
+}
